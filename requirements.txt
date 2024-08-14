@@ -1,5 +1,10 @@
-streamlit==1.37.1
-langchain==0.2.13
-langchain_google_genai==1.0.8  # Example version, adjust as needed
+faiss-cpu
+groq
+langchain-groq
+PyPDF2
+langchain_google_genai
+langchain
+streamlit
+langchain_community
 python-dotenv
-faiss-cpu  # or faiss-gpu if applicable
+pypdf
