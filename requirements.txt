@@ -9,4 +9,4 @@ langchain-groq
 langchain_community
 python-dotenv
 pypdf
-
+PyMuPDF
